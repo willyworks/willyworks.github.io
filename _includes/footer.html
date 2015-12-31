@@ -2,15 +2,10 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-lg-offset-1 text-center">
-        <h4><strong>{{ site.owner }}</strong>
-        </h4>
-        <p>
-          {% for address in site.address %}
-          {{ address.line }}<br>
-          {% endfor %}
-        </p>
+        <section id="contact" class="contact">
+        <h2><strong>Contact</strong></h2>
+        <h5><strong>{{ site.title }}({{ site.owner }})</strong></h5>
         <ul class="list-unstyled">
-          <li><i class="fa fa-phone fa-fw"></i> {{ site.telephone }}</li>
           <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:{{ site.email }}">{{ site.email }}</a>
           </li>
         </ul>
@@ -26,6 +21,7 @@
             <a href="https://github.com/{{ site.github_username }}"><i class="fa fa-github fa-fw fa-3x"></i></a>
           </li>
         </ul>
+        </section>
         <hr class="small">
         <p class="text-muted">Copyright &copy; {{ site.copyright }} 20{{ site.time | date: '%y' }}</p>
       </div>

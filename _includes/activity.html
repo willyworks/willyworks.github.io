@@ -1,0 +1,26 @@
+<section id="activities" class="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Activities</h2>
+        <p class="lead">主な講演履歴</p>
+      </div>
+      <div class="col-lg-12 col-lg-offset-3 h4 text-left" style="line-height: 1.5">
+        {% capture speaking_activity %}{% include main_activity.md %}{% endcapture %}
+        {{ speaking_activity | markdownify }}
+      </div>
+      <div class="col-lg-12 text-center">
+        <p class="lead">その他勉強会や小規模イベントにおける主な発表</p>
+      </div>
+      <div class="col-lg-12 col-lg-offset-3 h4 text-left" style="line-height: 1.5">
+        {% capture speaking_activity %}{% include other_activity.md %}{% endcapture %}
+        {{ speaking_activity | markdownify }}
+      </div>
+      <div class="col-lg-12 text-center" style="padding-top: 20px">
+        <p class="lead"><a href="http://www.slideshare.net/marcyterui/presentations">その他、こちらからご確認いただけます。</a></p>
+      </div>
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>

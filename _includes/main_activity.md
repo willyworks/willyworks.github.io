@@ -1,0 +1,14 @@
+- 2015.9.12 - [PyCon mini Sapporo 2015](https://sapporo.pycon.jp/2015/)  
+[Pythonで記述可能なGoogle Cloud Deployment Managerについて](http://www.slideshare.net/marcyterui/pythonyamlgcpdeploygoogle-cloud-deployment-manager)
+
+- 2015.9.11 - [db tech showcase 2015 Sapporo](http://www.insight-tec.com/dbts-sapporo-2015.html)  
+[Amazon Auroraの詳細な検証結果および解説](http://www.slideshare.net/marcyterui/amazon-aurora-52662214)
+
+- 2015.7.26 - [July Tech Festa 2015](http://2015.techfesta.jp/p/program.html#multiple_cloud_usecase)  
+[マルチクラウドデザインパターンについて](http://www.slideshare.net/marcyterui/multi-cloud-design-patternbeta)
+
+- 2015.3.22 - [JAWS Days 2015](http://jawsdays2015.jaws-ug.jp/speaker/masashi-terui/)  
+[Amazon Auroraの解説および考察](http://www.slideshare.net/marcyterui/deep-dive-46150379)
+
+- 2014.9.6 - [JAWS Festa 2014 Tohoku](http://jft2014.jaws-ug.jp/speaker/marcy-terui/)  
+[Amazon CloudWatchを利用した監視ノウハウについて](http://www.slideshare.net/marcyterui/jtf-cw)
