@@ -1,8 +1,7 @@
 # Site settings
 title: Willyworks
-email:
-description: "北海道札幌市の副業スペシャリストがクラウド・自動化（Infrastructure as Code, DevOps）を中心とした先進的なインフラの設計・構築や、その上でのアプリケーション開発までをトータルでサポート致します。"
-sub_title: Cloud/Server-side specialist will help you at part-time from Sapporo-shi, Hokkaido.
+description: "北海道札幌市の副業エキスパートがクラウド・自動化（Infrastructure as Code, DevOps）を中心とした先進的なインフラの設計・構築や、その上でのアプリケーション開発までをトータルでサポート致します。"
+sub_title: "A part-time cloud/server-side expert in Sapporo-shi, Hokkaido."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
