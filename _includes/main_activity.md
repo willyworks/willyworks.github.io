@@ -1,4 +1,4 @@
-- 2018.03.11 - [JAWS Days 2018](https://jawsdays2018.jaws-ug.jp) : [公開資料①](https://speakerdeck.com/marcyterui/reliability-engineering-for-enterprise-serverless)
+- 2018.03.11 - [JAWS Days 2018](https://jawsdays2018.jaws-ug.jp) : [公開資料](https://speakerdeck.com/marcyterui/reliability-engineering-for-enterprise-serverless)
 - 2017.11.03 - [ServerlessConf 2017](http://tokyo.serverlessconf.io/) : [公開資料①](https://slideship.com/users/@marcy-terui/presentations/2017/11/5vUYExsSUrPbyjyjKA7J99/), [公開資料②](https://slideship.com/users/@marcy-terui/presentations/2017/11/NV8cP63mxs1tLw4qkct7Xd/)
 - 2017.09.09 - [PyCon JP 2017](https://pycon.jp/2017/ja/): [公開資料](https://slideship.com/users/@marcy-terui/presentations/2017/09/9PzXZzcJfBR1ENEMmMbGSf/)
 - 2016.10.01 - [ServerlessConf Tokyo 2016](http://tokyo.serverlessconf.io/): [公開資料](http://www.slideshare.net/marcyterui/unlimited-frameworks), パネルディスカッション
